@@ -161,11 +161,12 @@ RegisterNumber:  212225230245
 ## Output:
 <img width="848" height="410" alt="image" src="https://github.com/user-attachments/assets/59d50412-4870-4026-9518-3c4b8bc5e291" />
 <img width="1198" height="403" alt="image" src="https://github.com/user-attachments/assets/b92e9c96-c1b9-4d25-805c-649d85921d70" />
-<img width="1233" height="412" alt="Screenshot 2026-08-24 134857" src="https://github.com/user-attachments/assets/ea79dea8-b230-47b4-8519-456d1d59c5c3" />
-<img width="1240" height="422" alt="image" src="https://github.com/user-attachments/assets/e099b816-5ad6-4d28-b3ee-5d31a630d57d" />
-<img width="1077" height="397" alt="image" src="https://github.com/user-attachments/assets/b00fb83a-0226-40e2-a07d-5fe4be924d28" />
-<img width="1171" height="428" alt="image" src="https://github.com/user-attachments/assets/d85c8393-3602-423e-bab5-aefd11ee97de" />
-<img width="1047" height="405" alt="image" src="https://github.com/user-attachments/assets/cfdd4767-bce1-48b5-80bf-57310a55ffcc" />
+<img width="950" height="416" alt="image" src="https://github.com/user-attachments/assets/d41fa841-125e-4515-840a-db20d7fc3d28" />
+<img width="996" height="420" alt="image" src="https://github.com/user-attachments/assets/9f8c3502-603b-47ee-85ef-3ee8f6a4b538" />
+<img width="1181" height="361" alt="image" src="https://github.com/user-attachments/assets/808959a0-bd47-45d1-8375-c979b16bda92" />
+<img width="1005" height="401" alt="image" src="https://github.com/user-attachments/assets/02762565-30d8-4bae-b7a9-3c1f283b282d" />
+
+<img width="991" height="395" alt="image" src="https://github.com/user-attachments/assets/10301e90-cd18-4e1a-917a-25dcc67ba141" />
 
 
 # Results:
