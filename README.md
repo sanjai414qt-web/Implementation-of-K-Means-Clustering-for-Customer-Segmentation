@@ -169,8 +169,7 @@ RegisterNumber:  212225230245
 <img width="991" height="395" alt="image" src="https://github.com/user-attachments/assets/10301e90-cd18-4e1a-917a-25dcc67ba141" />
 
 
-# Results:
-Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
+
 
 
 ## Result:
